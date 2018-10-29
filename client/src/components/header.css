@@ -1,0 +1,32 @@
+.header {
+	height: 80px;
+	padding: 18px 0;
+}
+
+.header input {
+	width: 40%;
+	display: inline-block;
+}
+
+.account-status {
+	width: 50%;
+	display: inline-block;
+	float: right;
+}
+
+.account-status .balance {
+	display: inline-block;
+}
+
+.account-status .equity {
+	display: inline-block;
+}
+
+.account-status .number {
+	font-size: 20px;
+	font-weight: 300;
+}
+
+.account-status .text {
+	font-size: 13px;
+}
